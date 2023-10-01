@@ -1,0 +1,7 @@
+﻿  lab1.c
+D:\Project1\Project1\lab1.c(11,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Project1\Project1\lab1.c(25,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Project1\Project1\lab1.c(34,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Project1\Project1\lab1.c(51,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+lab1.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  Project1.vcxproj -> D:\Project1\x64\Debug\Project1.exe
